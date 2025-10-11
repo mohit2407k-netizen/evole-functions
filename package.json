@@ -1,0 +1,23 @@
+{
+  "name": "evole-functions",
+  "version": "1.0.0",
+  "description": "Author - Mohit kumar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit2407k-netizen/evole-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit2407k-netizen/evole-functions/issues"
+  },
+  "homepage": "https://github.com/mohit2407k-netizen/evole-functions#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
